@@ -10,19 +10,53 @@ In this repository, I provide some of the templates that I used in my master deg
 
 ## Powerpoint template
 
-![image0](./Image/ppt_1.png)
-![image1](./Image/ppt_2.png)
-![image2](./Image/ppt_3.png)
-![image3](./Image/ppt_4.png)
+<table>
+    <tr>
+        <th>
+            <img src = "./Image/ppt_1.png">
+        </th>
+        <th>
+             <img src = "./Image/ppt_2.png">
+        </th>
+    <tr>
+    <tr>
+        <th>
+            <img src = "./Image/ppt_3.png">
+        </th>
+        <th>
+             <img src = "./Image/ppt_4.png">
+        </th>
+    <tr>
+</table>
 
 ## Homework template (zh)
 
-![image0](./Image/hw_zh_1.png)
-![image1](./Image/hw_zh_2.png)
-![image2](./Image/hw_zh_3.png)
+<table>
+    <tr>
+        <th>
+            <img src = "./Image/hw_zh_1.png">
+        </th>
+        <th>
+            <img src = "./Image/hw_zh_2.png">
+        </th>
+        <th>
+            <img src = "./Image/hw_zh_3.png">
+        </th>
+    <tr>
+</table>
 
 ## Homework template (en)
 
-![image0](./Image/hw_en_1.png)
-![image1](./Image/hw_en_2.png)
-![image2](./Image/hw_en_3.png)
+<table>
+    <tr>
+        <th>
+            <img src = "./Image/hw_en_1.png">
+        </th>
+        <th>
+            <img src = "./Image/hw_en_2.png">
+        </th>
+        <th>
+            <img src = "./Image/hw_en_3.png">
+        </th>
+    <tr>
+</table>
